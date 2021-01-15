@@ -31,11 +31,11 @@ THEN the saved events persist
 
 
 ### Application Contents/Description
-```
+``
 Given passed down starter code, I've created a simple calendar application that allows a user to save events for each hour of the day. 
 I have done this by creating a local storage area that stores time events for the day using jQuery and using moment.js to check whether 
 the time for those events has past or not. I created an event object for each of the times throughout the day to call data to or save data from. 
-```
+``
 
 ### Screenshot
 ```
