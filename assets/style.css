@@ -44,6 +44,12 @@ body {
     background-color: #ffffff;
     color: #000000;
     border-top: 1px dashed #000000;
+    border-bottom: 1px dashed #000000;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-left: 1px dashed black;
+    position: relative;
+    min-height:80px;
   }
   
   .hour p{
@@ -95,7 +101,9 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     border: 1px solid black;
-    border-radius: 15px;
+    border-radius: 7.5px;
     background-color: #06AED5;
-    color: white;  
+    color: white;
+    font-size: 1.5em;
+    padding: 5px 5px;  
   }
