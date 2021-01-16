@@ -14,7 +14,7 @@ $(document).ready(function() {
             <textarea></textarea> 
         </div> 
         <div class="col-sm col-md-1 saveBtn"> 
-            <i class="far fa-save fa-2x"></i> 
+            <i class="fas fa-save fa-2x"></i> 
         </div> 
         </div>`);
     }
