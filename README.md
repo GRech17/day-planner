@@ -37,5 +37,5 @@ Given passed down starter code, I've refactored a simple calendar application th
 
 ### Screenshot
 ```
-<img src = "assets/Screenshot .jpg" alt = "planner preview">
+<img src = "assets\Screenshot .jpg" alt = "planner preview">
 ```
