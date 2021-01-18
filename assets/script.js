@@ -2,7 +2,7 @@
 $(document).ready(function() {
 
     // shows date in header
-    $("#currentDay").text(moment().format("MMMM Do YYYY, HH:mm A"));
+    $("#currentDay").text(moment().format("MMMM Do YYYY, HH:mm"));
 
     // Create html of the timeblocks
     for (var i = 9; i <= 17; i++){
